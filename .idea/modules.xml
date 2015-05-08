@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeiXinRecorder.iml" filepath="$PROJECT_DIR$/WeiXinRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiXinRecorder/WeiXinRecorder-WeiXinRecorder.iml" filepath="$PROJECT_DIR$/WeiXinRecorder/WeiXinRecorder-WeiXinRecorder.iml" />
+    </modules>
+  </component>
+</project>
